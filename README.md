@@ -1,4 +1,6 @@
 <header>
+AKIAIOSFODNN7EXAMPLE
+
 
 <!--
   <<< Author notes: Course header >>>
